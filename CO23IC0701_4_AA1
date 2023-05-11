@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>My favourite festival</title>
+        <style>
+            h2{
+                background-color: azure;
+                text-align: center;
+            }
+            .para{
+                background-color: lavender;
+                border: 5px outset;
+                border-color: blueviolet;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Holi</h2>
+        <div class="para">
+            Indians love celebrating Holi, also known as the "Festival of Colors".
+            It is observed on the full moon day of the Hindu calendar's 'Phalgun' month and in March on the Gregorian calendar.
+            People take part in the festival by painting their faces with both dry and wet colours.
+            People also participate in the celebration by singing folk songs and dancing.
+        </div>
+    </body>
+</html>
